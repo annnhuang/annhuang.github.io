@@ -83,7 +83,7 @@ paginate_path:         /blog/:num/
 # ---------------------------------------------------------------------------------------
 
 # theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+remote_theme: hydecorp/hydejack@v9 # just keep this one uncommented so you can successfully deploy using gh-pages
 # remote_theme: hydecorp/hydejack@v9.1.6
 
 # Customizaton
@@ -114,10 +114,10 @@ theme_color:           rgb(25,55,71)
 #font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 
 # to keep it simple..
-google_fonts: Roboto
-font:         Roboto
-font_heading: Roboto
-font_code:    Roboto
+google_fonts: false
+font:         false
+font_heading: false
+font_code:    false
 
 defaults:
   # You can use this to provide a default accent color and background for
