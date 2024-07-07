@@ -4,10 +4,10 @@
 basics:
   name: "Ann Huang"
   label: "PhD student"
-  picture: /assets/img/logo-2.jpg #"https://via.placeholder.com/240x240"
-  email: ""
+  picture: /assets/img/logo-2.jpg
+  email: "ann.huang@uni-osnabrueck.de"
   phone: "(912) 555-4321"
-  website: "annnhuang.github.io"
+  website: "https://annnhuang.github.io/"
   summary: >
     Ann Huang is currently a PhD student in the research training group "Computational Cognition" at University Osnabrück.
   location:
@@ -18,7 +18,7 @@ basics:
     region: "Lower Saxony"
   profiles:
     - network: "Twitter"
-      username: "annnhuang"
+      username: "@annnhuang"
       url: ""
     - network: "LinkedIn"
       username: "Ann Huang"
