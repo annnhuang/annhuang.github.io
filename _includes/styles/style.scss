@@ -129,3 +129,20 @@
 {% if site.hydejack.dark_mode.dynamic %}
   @import "pro/dark-mode-dynamic-syntax";
 {% endif %}
+
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Dark mode for specific elements */
+body.dark-mode .header {
+  background-color: #1c1c1c;
+}
+
+body.dark-mode .content {
+  background-color: #181818;
+  color: #e0e0e0;
+}
