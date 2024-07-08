@@ -4,7 +4,7 @@
 basics:
   name: "Richard Hendricks"
   label: "Programmer"
-  picture: /assets/img/logo-2.jpg
+  picture: "https://via.placeholder.com/240x240"
   email: ""
   phone: "(912) 555-4321"
   website: "https://piedpiper.com"
