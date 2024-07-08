@@ -275,6 +275,7 @@ DEPENDENCIES
   jekyll (~> 3.9.5)
   jekyll-compose
   jekyll-include-cache
+  public_suffix (= 5.1.1)
   webrick
 
 BUNDLED WITH

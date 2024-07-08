@@ -14,6 +14,8 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 3.8"
 gem "jekyll", "~> 3.9.5"
 
+gem 'public_suffix', '5.1.1'
+
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
