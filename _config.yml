@@ -25,10 +25,10 @@ title:                 Test
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Blog de seguridad ofensiva. (A.k.a Rapture)
+  Test
 
 # A shorter description for the sidebar.
-tagline:               Blog de seguridad ofensiva. (A.k.a Rapture)
+tagline:               Test
 
 # A list of keywords for your blog
 keywords:              [hacking, seguridad ofensiva, cybersecurity]
@@ -36,13 +36,13 @@ keywords:              [hacking, seguridad ofensiva, cybersecurity]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/2A627E52-ED2D-4872-B4CD-70C983CE86B0.jpeg
+logo:                  #/assets/img/2A627E52-ED2D-4872-B4CD-70C983CE86B0.jpeg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Alejandro Auñón
-  email:               alejandro.auleon@gmail.com
+  name:                #Alejandro Auñón
+  email:               #alejandro.auleon@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
