@@ -279,7 +279,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.8)
+  jekyll (~> 3.9.5)
   jekyll-compose
   jekyll-include-cache
   jekyll-theme-hydejack!

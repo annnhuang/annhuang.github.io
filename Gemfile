@@ -10,7 +10,8 @@ gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8"
+#gem "jekyll", "~> 3.8"
+gem "jekyll", "~> 3.9.5"
 
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
