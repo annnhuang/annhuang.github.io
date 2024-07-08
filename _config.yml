@@ -20,7 +20,7 @@
 lang:                  es
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 WhatASh3ll
+title:                 Test
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -50,12 +50,12 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-#  - title:             Projects
-#    url:               /projects/
-#  - title:             Résumé*
-#    url:               /resume/
-#  - title:             Documentation
-#    url:               /docs/
+  - title:             Projects
+    url:               /projects/
+  - title:             Résumé*
+    url:               /resume/
+  - title:             Documentation
+    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -82,7 +82,7 @@ paginate_path:         /blog/:num/
 # ---------------------------------------------------------------------------------------
 
 #theme: jekyll-theme-hydejack
-#remote_theme: hydecorp/hydejack@v9
+remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
