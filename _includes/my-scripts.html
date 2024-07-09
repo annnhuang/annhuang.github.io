@@ -51,5 +51,23 @@ The snippet below will run the code on every `hy-push-state-load` event instead.
         }
     }()
   });
+ 
+
+  document.addEventListener("DOMContentLoaded", function() {
+    const toggle = document.getElementById('dark-mode-toggle');
+    if (toggle) {
+      toggle.addEventListener('click', function() {
+        document.body.classList.toggle('dark-mode');
+        localStorage.setItem('dark-mode', document.body.classList.contains('dark-mode'));
+      });
+
+      // Initialize dark mode based on user's preference
+      if (localStorage.getItem('dark-mode') === 'true') {
+        document.body.classList.add('dark-mode');
+      }
+    }
+  });
+
+
 </script>
 {% endcomment %}
