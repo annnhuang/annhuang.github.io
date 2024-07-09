@@ -77,7 +77,7 @@ education:
 publications:
   - name: "Proxemics for Human-Agent Interaction in Augmented Reality"
     publisher: "ACM CHI"
-    releaseDate: "2014-10-01"
+    releaseDate: "2022-02-01"
     website: "https://dl.acm.org/doi/10.1145/3491102.3517593"
     summary: "New study shows how virtual agents' personal space in augmented reality influences user behavior and offers design insights for comfortable interactions"
 
@@ -92,7 +92,7 @@ skills:
     level: "Master"
     keywords:
       - "generalized linear models"
-      - "drift-diffusion modeling"
+      - "drift-diffusion models"
       - "linear mixed models"
 languages:
   - language: "English"
