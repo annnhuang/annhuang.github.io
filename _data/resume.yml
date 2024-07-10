@@ -3,21 +3,13 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Ann Huang"
-  label: "Research Scientist"
+  label: "PhD Candidate"
   picture: /assets/img/logo-2.jpg
   email: "ann.huang@uni-osnabrueck.de"
   phone: "0541 9693359"
   website: "https://annnhuang.github.io"
   summary: >
-    Ann Huang is a PhD student in the Research Training Group
-    ["Computational Cognition"](https://www.comco.uni-osnabrueck.de/en/startpage.html)
-    at the [Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/home.html)
-    at the University Osnabrück.\
-
-    Ann is part of the Neurobiopsychology lab, where she is advised by
-    [Dr. Prof. Peter König](https://scholar.google.com/citations?user=Ieubd0EAAAAJ).\
-
-    Her research interests lie at the intersection of human cognition and human-computer interaction.
+    A summary statement about who I am.
 
   location:
     address: "Wachsbleiche 27"
@@ -55,7 +47,7 @@ work:
     highlights:
       - "Planned and implemented a human subject study to investigate how people interact with human avatars in augmented reality"
       - "Presented on mobile AR at the German Human Factors Summer School hosted by IfADo: abstract published on Mensch-Maschine-Interaktion Interaktiv"
-      - "Assisting with the integration of human physiological measurements for a VR simulation project on the communication between drivers in automated vehicles and pedestrian"
+      - "Assissted the integration of human physiological measurements for a VR simulation project on the communication between drivers in automated vehicles and pedestrian"
       - "Conducted literature review to support ongoing projects"
       - "Participated in seminars, conferences & workshops: Conversations on Mixed Reality: Technologies for Health and Wellbeing; Neurohackdemy, Neuromatch"
       - "Assisted the PI in graduate-level courses: Physiological Computing and Neuroergonomics; Engineering for Human Factors (wrote lines of code and content for tutorials on physiological signal processing & graded exams)"
@@ -79,7 +71,7 @@ publications:
     publisher: "ACM CHI"
     releaseDate: "2022-02-01"
     website: "https://dl.acm.org/doi/10.1145/3491102.3517593"
-    summary: "New study shows how virtual agents' personal space in augmented reality influences user behavior and offers design insights for comfortable interactions"
+    summary: "New study showing how virtual agents' personal space in augmented reality influences user behavior and offers design insights for comfortable interactions."
 
 skills:
   - name: "Programming"
@@ -91,9 +83,8 @@ skills:
   - name: "Statistical Analyses"
     level: "Master"
     keywords:
-      - "generalized linear models"
-      - "drift-diffusion models"
-      - "linear mixed models"
+      - "Linear regression"
+      - "Generalized linear mixed models"
 languages:
   - language: "English"
     fluency: "5-5"
