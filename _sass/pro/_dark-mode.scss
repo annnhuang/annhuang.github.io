@@ -43,3 +43,25 @@
     @include darkmode();
   }
 }
+
+
+
+#_dark-mode {
+  display: block !important;
+  background: red !important;
+}
+
+
+#_dark-mode {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5em;
+  color: inherit;
+}
+
+.navbar .nav-btn {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
