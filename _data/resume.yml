@@ -20,10 +20,10 @@ basics:
   profiles:
     - network: "Twitter"
       username: "annnhuang"
-      url: ""
+      url: "https://x.com/annnhuang"
     - network: "LinkedIn"
       username: "Ann Huang"
-      url: ""
+      url: "https://www.linkedin.com/in/ann-huang-28a377240/"
 work:
   - company: Institute of Cognitive Science
     position: "Scientific Researcher"
