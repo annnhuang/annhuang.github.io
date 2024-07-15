@@ -9,7 +9,13 @@ basics:
   phone: "0541 9693359"
   website: "https://annnhuang.github.io"
   summary: >
-    A summary statement about who I am.
+     I am currently a PhD student in the Research Training Group
+     ["Computational Cognition"](https://www.comco.uni-osnabrueck.de/en/startpage.html)
+     at the [Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/home.html)
+     at the University Osnabrück. I am part of the Neurobiopsychology lab, where I am advised
+     by [Dr. Prof. Peter König](https://scholar.google.com/citations?user=Ieubd0EAAAAJ).
+     My interests lie at the intersection of cognition and human-computer interaction.
+     I love to think about how behavioral principles can be applied to improve our interaction with technologies.
 
   location:
     address: "Wachsbleiche 27"
@@ -39,7 +45,7 @@ work:
       assisted in supervising a team of students to carry out the conference"
   
   - company: Institute of Informatics / Human Centered-Ubiquitous Media
-    position: "Research Assistant"
+    position: "Student Assistant"
     website: "https://www.um.informatik.uni-muenchen.de/index.html"
     startDate: "2020-04-01"
     endDate: "2021-08-31"
@@ -72,7 +78,7 @@ publications:
     releaseDate: "2022-02-01"
     website: "https://dl.acm.org/doi/10.1145/3491102.3517593"
     summary: "New study showing how virtual agents' personal space in augmented reality influences user behavior and offers design insights for comfortable interactions."
-
+    
 skills:
   - name: "Programming"
     level: "2-3"
